@@ -4,24 +4,60 @@ Projektin aihe: <b>kauppalistasovellus</b>
 Sovellus toteuttaa vaaditut toiminnallisuudet:
 
 <ul>
-<li>
-    Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
-    <ul>
     <li>
-        Selvä ratkaisu ja toiminnallisuus.
+        Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+        <ul>
+        <li>
+            Selvä ratkaisu ja toiminnallisuus.
+        </li>
+        </ul>
     </li>
-    </ul>
-</li>
-Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
-    Käyttäjät pystyvät luomaan henkilökohtaisia ostoslistoja kauppareissuja varten. Ostoslistoja pystyy myös jakamaan muiden käyttäjien kanssa, jolloin he pääsevät näkemään ja muokkaamaan jaettuja listoja.
-Käyttäjä näkee sovellukseen lisätyt tietokohteet.
-    Selvä ratkaisu ja toiminnallisuus.
-Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
-    Käyttäjät voivat luoda useita kauppalistoja esimerkiksi eri tarkoituksiin: ruokakauppaan, rautakauppaan, lemmikkieläintarvikeliikkeeseen jne. Listoista voi myös etsiä yksittäisiä artikkeleita (helpottaa jos käsittelee pitkää listaa ja haluaa vaikka poistaa tietyn artikkelin).
-Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
-    Selvä ratkaisu ja toiminnallisuus.
-Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
-    Käyttäjä voi luokitella ostoslistoja esimerkiksi sen perusteella koskeeko lista ruokakauppaa tai jotain muuta.
-Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
-    Käyttäjät voivat kommentoida heille jaettuja ostoslistoja ja muokata niitä.
+    <li>
+        Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
+        <ul>
+            <li>
+                Käyttäjät pystyvät luomaan henkilökohtaisia ostoslistoja kauppareissuja varten. Ostoslistoja pystyy myös jakamaan muiden käyttäjien kanssa, jolloin he pääsevät näkemään ja muokkaamaan jaettuja listoja.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Käyttäjä näkee sovellukseen lisätyt tietokohteet.
+        <ul>
+            <li>
+                Selvä ratkaisu ja toiminnallisuus.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
+        <ul>
+            <li>
+                Käyttäjät voivat luoda useita kauppalistoja esimerkiksi eri tarkoituksiin: ruokakauppaan, rautakauppaan, lemmikkieläintarvikeliikkeeseen jne. Listoista voi myös etsiä yksittäisiä artikkeleita (helpottaa jos käsittelee pitkää listaa ja haluaa vaikka poistaa tietyn artikkelin).
+            </li>
+        </ul>
+    </li>
+    <li>
+        Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
+        <ul>
+            <li>
+                Selvä ratkaisu ja toiminnallisuus.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
+        <ul>
+            <li>
+                Käyttäjä voi luokitella ostoslistoja esimerkiksi sen perusteella koskeeko lista ruokakauppaa tai jotain muuta.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
+        <ul>
+            <li>
+                Käyttäjät voivat kommentoida heille jaettuja ostoslistoja ja muokata niitä.
+            </li>
+        </ul>
+    </li>
 </ul>
