@@ -6,9 +6,11 @@ Sovellus toteuttaa vaaditut toiminnallisuudet:
 <ul>
 <li>
     Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+    <ul>
     <li>
         Selvä ratkaisu ja toiminnallisuus.
     </li>
+    </ul>
 </li>
 Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
     Käyttäjät pystyvät luomaan henkilökohtaisia ostoslistoja kauppareissuja varten. Ostoslistoja pystyy myös jakamaan muiden käyttäjien kanssa, jolloin he pääsevät näkemään ja muokkaamaan jaettuja listoja.
