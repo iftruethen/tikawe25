@@ -1,5 +1,5 @@
 # tikawe25
-Projektin aihe: kauppalistasovellus
+Projektin aihe: <b>kauppalistasovellus</b>
 
 Sovellus toteuttaa vaaditut toiminnallisuudet:
 
