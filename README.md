@@ -3,8 +3,13 @@ Projektin aihe: <b>kauppalistasovellus</b>
 
 Sovellus toteuttaa vaaditut toiminnallisuudet:
 
-Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
-    Selvä ratkaisu ja toiminnallisuus.
+<ul>
+<li>
+    Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+    <li>
+        Selvä ratkaisu ja toiminnallisuus.
+    </li>
+</li>
 Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
     Käyttäjät pystyvät luomaan henkilökohtaisia ostoslistoja kauppareissuja varten. Ostoslistoja pystyy myös jakamaan muiden käyttäjien kanssa, jolloin he pääsevät näkemään ja muokkaamaan jaettuja listoja.
 Käyttäjä näkee sovellukseen lisätyt tietokohteet.
@@ -17,3 +22,4 @@ Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Ma
     Käyttäjä voi luokitella ostoslistoja esimerkiksi sen perusteella koskeeko lista ruokakauppaa tai jotain muuta.
 Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
     Käyttäjät voivat kommentoida heille jaettuja ostoslistoja ja muokata niitä.
+</ul>
