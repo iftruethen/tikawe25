@@ -1,4 +1,4 @@
-# tikawe25
+# kauppalistasovellus
 Projektin aihe: <b>kauppalistasovellus</b>
 
 Sovellus toteuttaa vaaditut toiminnallisuudet:
