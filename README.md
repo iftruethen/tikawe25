@@ -1,7 +1,7 @@
 # kauppalistasovellus
 Projektin aihe: <b>kauppalistasovellus</b>
 
-Sovellus toteuttaa vaaditut toiminnallisuudet:
+Sovellus tulee toteuttamaan vaaditut toiminnallisuudet:
 
 <ul>
     <li>
@@ -60,4 +60,43 @@ Sovellus toteuttaa vaaditut toiminnallisuudet:
             </li>
         </ul>
     </li>
+</ul>
+
+<h3><b>Sovelluksen vaihe:</b></h3>
+2.2.2025
+<br>
+<h4>Tavoitteet ja tila</h4>
+<ul>
+    <li>
+        Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+        <ul><li>
+            Toteutettu
+        </ul></li>
+    </li>
+    <li>
+        Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
+        <ul><li>
+            Lisääminen toteutettu. Muokkaus ja poistaminen vielä vaiheessa.
+        </ul></li>
+    </li>
+    <li>
+        Käyttäjä näkee sovellukseen lisätyt tietokohteet.
+        <ul><li>
+            Toteutettu
+        </ul></li>
+    </li>
+    <li>
+        Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
+        <ul><li>
+            Tämä ominaisuus vielä vaiheessa.
+        </ul></li>
+    </li>
+</ul>
+
+Sovelluksen puutteet ja tarvittavat korjaukset:
+<ul>
+    <li>tietokohteiden muokkauksen ja poistamisen viimeistely</li>
+    <li>hakutoiminnon toteuttaminen</li>
+    <li>sovelluksen tietoturvan parantaminen (erityisesti pitää estää luvaton listojen katselu ja muokkaus)</li>
+    <li>yleinen bugien etsintä ja reunatapaustilanteiden varmistaminen</li>
 </ul>
